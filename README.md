@@ -1,13 +1,14 @@
 <h2> Luan Rodrigues </h2>
   
-<p>Desenvolvedor Python, com foco em automações e web scraping! Aprendendo .net e node para criação de API's/p>
+<p>Desenvolvedor Python, com foco em automações e web scraping! Aprendendo .net e node para criação de API's</p>
 
-<div style="text-align:center">
+<div>
   <h3>Linguagens:</h3>
-  <p>Python <img heigth="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" /> | 
-  JavaScript <img heigth="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" /> |
-  C# <img heigth="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/csharp/csharp-original.svg" />
-  <p></p>
+  <ul>
+  <li>Python <img heigth="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" /></li>
+  <li>JavaScript <img heigth="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" /></li>
+  <li>C# <img heigth="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/csharp/csharp-original.svg" /></li>
+</ul>
   <h3>Ferramentas:</h3>
   <ul>
     <li>Selenium <img heigth="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/selenium/selenium-original.svg" /></li>
@@ -16,8 +17,8 @@
     <li> .NET Core <img heigth="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/dotnetcore/dotnetcore-original.svg" /></li>
     <li> AWS Services <img heigth="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/amazonwebservices/amazonwebservices-original.svg" /></li>
   </ul>
-  <p></p>
 </div>
+
 <div>
   <h3>-------------------------</h3>
   <h3>Contatos:</h3>
@@ -25,6 +26,3 @@
   <a href="https://www.facebook.com/luanrodriguesdev/"><img src="https://img.shields.io/badge/Facebook-1877F2?style=for-the-badge&logo=facebook&logoColor=white"</a>
   <a href="https://www.linkedin.com/in/luanrodriguesferreira/"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"</a>
 </div>
-
-
-  
