@@ -2,7 +2,7 @@
   
 <p>Desenvolvedor Python, com foco em automações e web scraping! Aprendendo .net e node para criação de API's/p>
 
-<div>
+<div style="text-align:center">
   <h3>Linguagens:</h3>
   <p>Python <img heigth="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" /> | 
   JavaScript <img heigth="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" /> |
