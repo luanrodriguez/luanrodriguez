@@ -1,18 +1,20 @@
-<h2> Opa! Beleza? Me chamo Luan Rodrigues!</h2>
+<h2> Luan Rodrigues </h2>
   
-<p>Atualmente trabalho como Q.A, analisando processos e automatizando testes, mas curto demais codar em Python e JavaScript!</p>
+<p>Desenvolvedor Python, com foco em automações e web scraping! Aprendendo .net e node para criação de API's/p>
 
 <div>
   <p>Linguagens:</p>
   <img heigth="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" />
   <img heigth="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" />
-  <img heigth="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original.svg" />
+  <img heigth="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/dotnet/dotnet-original.svg" />
   <p>Ferramentas:</p>
-  <img heigth="30" width="40" src="https://cdn.icon-icons.com/icons2/2107/PNG/512/file_type_robotframework_icon_130193.png" />
-  <img heigth="30" width="40" src="https://img.icons8.com/color/80/000000/selenium-test-automation.png"/>
-  <img heigth="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nodejs/nodejs-original.svg" />
-  <img heigth="30" width="40" src="https://symbols.getvecta.com/stencil_74/144_aws-lambda-icon.1304c1b730.svg" />
-  <img heigth="30" width="40" src="https://seekicon.com/free-icon-download/airflow_1.svg" />
+  <ul>
+    <li> Selenium </li>
+    <li> Pandas </li>
+    <li> Flask </li>
+    <li> .NET Core </li>
+    <li> AWS Services </li>
+  </ul>
 </div>
 <div>
   <p>-------------------------</p>
