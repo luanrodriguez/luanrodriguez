@@ -1,6 +1,7 @@
 <h2> Luan Rodrigues </h2>
   
-<p>Desenvolvedor Backend! Desenvolvimento de API's com .NET e Node (JS e TS)</p>
+<p>Desenvolvedor de software! Profissionalmente desenvolvo aplicações WEB, interfaces gráficas e API's. Utilizo Javascript como linguagem principal, mas também gosto de utilizar Python.
+</p>
 
 <div>
   <h3>-------------------------</h3>
