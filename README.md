@@ -1,6 +1,6 @@
 <h2> Luan Rodrigues </h2>
   
-<p>Desenvolvedor de software! Profissionalmente desenvolvo aplicações WEB, interfaces gráficas e API's. Utilizo Javascript como linguagem principal, mas também gosto de utilizar Python.
+<p>Desenvolvedor de software! Profissionalmente desenvolvo aplicações WEB, interfaces gráficas e API's. Uso Javascript como linguagem principal, utilizando React e Node. 
 </p>
 
 <div>
